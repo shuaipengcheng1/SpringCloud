@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="519c3b89-7ac5-4bf0-b191-026258899af3" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="mybatis_dao_xml" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.8.3-bin/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.3-bin\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="238pGcfu4bZ3KJ4zlYKbVCZZfzM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../SDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringCloudRetest" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.14084506" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="comday9.payserviceconsumer.Config" />
+      <recent name="com.day9.payservice_day9.Service" />
+      <recent name="com.day8.day8_payconsumer.Service" />
+      <recent name="com.day8.paymodel.Service" />
+      <recent name="com.day7.hystrixconsumer.OpenFeignServie" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProject\SpringCloudRetest\Day4\Ribbon\P2\src\main\java\com\day4\p2" />
+      <recent name="D:\IdeaProject\SpringCloudRetest\Day4\Ribbon\P2\src\main\resources" />
+      <recent name="D:\IdeaProject\SpringCloudRetest\Day4\Ribbon\P2\src\main\resources\templates" />
+      <recent name="D:\IdeaProject\SpringCloudRetest\Day4\Ribbon\P1\src\main\resources" />
+      <recent name="D:\IdeaProject\SpringCloudRetest\Day2\Pro2\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.misaka.provider_2.Provider" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GateWayDay9Application">
+    <configuration name="time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day8.gateway_day8.Config.time" />
+      <module name="GateWay_Day8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day8.gateway_day8.Config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="C" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day4.c.CApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.misaka.config.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsuApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Consu" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day3.consu.ConsuApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsulConusmerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ConsulConusmer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.misaka.consulconusmer.ConsulConusmerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsulProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ConsulProvider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.consulprovider.ConsulProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.misaka.consumer.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerDay2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ConsumerDay2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day2.consumerday2.ConsumerDay2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashBoradApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="DashBorad" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day7.dashborad.DashBoradApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashBorderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="DashBorder" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day8.dashborder.DashBorderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashBorderDay9Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="DashBorder_Day9" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day9.dashborder_day9.DashBorderDay9Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day8Eureka1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Day8_Eureka1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day8.day8_eureka1.Day8Eureka1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day8PayConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Day8_PayConsumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day8.day8_payconsumer.Day8PayConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="E1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day4.e1.E1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="E2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day4.e2.E2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eure1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eure1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day5.eure1.Eure1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eure2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eure2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day5.eure2.Eure2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day2.eureka1.Eureka1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka1Day9Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka1_Day9" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day9.eureka1_day9.Eureka1Day9Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka2Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="EUREKA2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day2.eureka2.Eureka2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.misaka.eureka2.Eureka2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringCloud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.misaka.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.misaka.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="EurekaServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day7.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWay9527Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="GateWay9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gateway9527.GateWay9527Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayDay8Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="GateWay_Day8" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day8.gateway_day8.GateWayDay8Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayDay9Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="GateWay_Day9" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="comday9.gateway_day9.GateWayDay9Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="HystrixConsumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day7.hystrixconsumer.HystrixConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="OpenFeign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day5.openfeign.OpenFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenFeignConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="OpenFeignConsumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.misaka.openfeignconsumer.OpenFeignConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.misaka.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderHystrix800Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Order_Hystrix_800" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.misaka.order_hystrix_800.OrderHystrix800Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="P1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day4.p1.P1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="P2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day4.p2.P2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayMent8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="PayMent8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.misaka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.misaka.PayMent8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayMent8001HtstrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="PayMent8001_Htstrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.misaka.payment8001_htstrix.PayMent8001HtstrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayMent8002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="PayMent8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.payment8002.PayMent8002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayModelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="PayModel" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day8.paymodel.PayModelApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayServiceConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="PayService-Consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="comday9.payserviceconsumer.PayServiceConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayServiceDay9Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="PayService_Day9" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day9.payservice_day9.PayServiceDay9Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pro1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Pro1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day2.pro1.Pro1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pro2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Pro2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day2.pro2.Pro2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Provi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day3.provi.ProviApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Provider_1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day5.provider_1.Provider1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Provider_2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.misaka.provider_2.Provider2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.misaka.provider.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RibbonRoundMethodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Ribbon_Round_method" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day5.ribbon_round_method.RibbonRoundMethodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceFuseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ServiceFuse" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.day7.servicefuse.ServiceFuseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ZookeeperConsumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.misaka.zookeeperconsumer.ZookeeperConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ZookeeperProvider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.misaka.zookeeperprovider.ZookeeperProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.time" />
+        <item itemvalue="Spring Boot.PayMent8001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="519c3b89-7ac5-4bf0-b191-026258899af3" name="默认变更列表" comment="" />
+      <created>1641125476330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641125476330</updated>
+      <workItem from="1641125478680" duration="7735000" />
+      <workItem from="1641193330386" duration="2558000" />
+      <workItem from="1641195925748" duration="5007000" />
+      <workItem from="1641200995956" duration="313000" />
+      <workItem from="1641201528847" duration="2802000" />
+      <workItem from="1641204420025" duration="5395000" />
+      <workItem from="1641310325643" duration="4226000" />
+      <workItem from="1641390419853" duration="3814000" />
+      <workItem from="1641394817315" duration="508000" />
+      <workItem from="1641572474503" duration="688000" />
+      <workItem from="1641634287049" duration="8914000" />
+      <workItem from="1641717829145" duration="3735000" />
+      <workItem from="1641721618144" duration="77000" />
+      <workItem from="1641721769287" duration="5743000" />
+      <workItem from="1641817305777" duration="5647000" />
+      <workItem from="1641824527036" duration="26000" />
+      <workItem from="1641904586744" duration="4408000" />
+      <workItem from="1642001235579" duration="923000" />
+      <workItem from="1642078118721" duration="7335000" />
+      <workItem from="1642087265161" duration="305000" />
+      <workItem from="1642087594152" duration="571000" />
+      <workItem from="1642212010625" duration="14295000" />
+      <workItem from="1642245308813" duration="189000" />
+      <workItem from="1642319502530" duration="8943000" />
+      <workItem from="1642497129697" duration="4118000" />
+      <workItem from="1642507996271" duration="3830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

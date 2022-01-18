@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Order/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day1/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day1/Consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day1/Provider/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka2/pom.xml" />
+        <option value="$PROJECT_DIR$/PayMent8002/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day2/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day2/Eureka1/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day2/EUREKA2/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day2/Pro1/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day2/Pro2/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day2/ConsumerDay2/pom.xml" />
+        <option value="$PROJECT_DIR$/ZookeeperProvider/pom.xml" />
+        <option value="$PROJECT_DIR$/ZookeeperConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../Day3/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day3/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day3/Provi/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day3/Consu/pom.xml" />
+        <option value="$PROJECT_DIR$/ConsulProvider/pom.xml" />
+        <option value="$PROJECT_DIR$/ConsulConusmer/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day4/Ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day4/Ribbon/E1/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day4/Ribbon/E2/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day4/Ribbon/P1/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day4/Ribbon/P2/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day4/Ribbon/C/pom.xml" />
+        <option value="$PROJECT_DIR$/OpenFeignConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day5/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day5/Eure1/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day5/Eure2/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day5/Provider_1/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day5/Ribbon_Round_method/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day5/Provider_2/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day5/OpenFeign/pom.xml" />
+        <option value="$PROJECT_DIR$/PayMent8001_Hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/Order_Hystrix_800/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day7/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day7/ServiceFuse/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day7/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day7/HystrixConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day7/DashBorad/pom.xml" />
+        <option value="$PROJECT_DIR$/GateWay9527/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day8/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day8/Day8_Eureka1/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day8/PayModel/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day8/DashBorder/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day8/Day8_PayConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day8/GateWay_Day8/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day9/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day9/Eureka1_Day9/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day9/PayService_Day9/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day9/PayService-Consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day9/DashBorder_Day9/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day9/GateWay_Day9/pom.xml" />
+        <option value="$PROJECT_DIR$/Config/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

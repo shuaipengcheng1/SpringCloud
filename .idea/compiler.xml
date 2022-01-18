@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PayModel" />
+        <module name="Provider_2" />
+        <module name="Eureka1_Day9" />
+        <module name="E1" />
+        <module name="Eure2" />
+        <module name="E2" />
+        <module name="Eure1" />
+        <module name="Provider_1" />
+        <module name="DashBorder_Day9" />
+        <module name="OpenFeign" />
+        <module name="Eureka1" />
+        <module name="Eureka2" />
+        <module name="Consumer" />
+        <module name="PayMent8001" />
+        <module name="PayService_Day9" />
+        <module name="Provi" />
+        <module name="Order" />
+        <module name="Consu" />
+        <module name="ZookeeperProvider" />
+        <module name="DashBorad" />
+        <module name="C" />
+        <module name="Config" />
+        <module name="GateWay9527" />
+        <module name="Order_Hystrix_800" />
+        <module name="GateWay_Day9" />
+        <module name="HystrixConsumer" />
+        <module name="ZookeeperConsumer" />
+        <module name="GateWay_Day8" />
+        <module name="InterFace" />
+        <module name="EurekaServer" />
+        <module name="P1" />
+        <module name="PayMent8001_Htstrix" />
+        <module name="Pro1" />
+        <module name="P2" />
+        <module name="Pro2" />
+        <module name="ConsulProvider" />
+        <module name="EUREKA2" />
+        <module name="ServiceFuse" />
+        <module name="PayMent8002" />
+        <module name="Day8_PayConsumer" />
+        <module name="ConsumerDay2" />
+        <module name="InterFaceFactory" />
+        <module name="DashBorder" />
+        <module name="Provider" />
+        <module name="Ribbon_Round_method" />
+        <module name="PayService-Consumer" />
+        <module name="Day8_Eureka1" />
+        <module name="OpenFeignConsumer" />
+        <module name="ConsulConusmer" />
+        <module name="Eureka" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="C" options="" />
+      <module name="Config" options="" />
+      <module name="Consu" options="" />
+      <module name="ConsulConusmer" options="" />
+      <module name="ConsulProvider" options="" />
+      <module name="Consumer" options="-parameters" />
+      <module name="ConsumerDay2" options="" />
+      <module name="DashBorad" options="" />
+      <module name="DashBorder" options="" />
+      <module name="DashBorder_Day9" options="" />
+      <module name="Day8_Eureka1" options="" />
+      <module name="Day8_PayConsumer" options="" />
+      <module name="E1" options="" />
+      <module name="E2" options="" />
+      <module name="EUREKA2" options="" />
+      <module name="Eure1" options="" />
+      <module name="Eure2" options="" />
+      <module name="Eureka" options="" />
+      <module name="Eureka1" options="" />
+      <module name="Eureka1_Day9" options="" />
+      <module name="Eureka2" options="" />
+      <module name="EurekaServer" options="" />
+      <module name="GateWay9527" options="" />
+      <module name="GateWay_Day8" options="-parameters" />
+      <module name="GateWay_Day9" options="" />
+      <module name="HystrixConsumer" options="" />
+      <module name="OpenFeign" options="" />
+      <module name="OpenFeignConsumer" options="" />
+      <module name="Order" options="" />
+      <module name="Order_Hystrix_800" options="" />
+      <module name="P1" options="" />
+      <module name="P2" options="" />
+      <module name="PayMent8001_Htstrix" options="" />
+      <module name="PayMent8002" options="" />
+      <module name="PayModel" options="" />
+      <module name="PayService-Consumer" options="" />
+      <module name="PayService_Day9" options="" />
+      <module name="Pro1" options="" />
+      <module name="Pro2" options="" />
+      <module name="Provider" options="-parameters" />
+      <module name="Provider_1" options="" />
+      <module name="Provider_2" options="" />
+      <module name="Ribbon_Round_method" options="" />
+      <module name="ServiceFuse" options="" />
+      <module name="ZookeeperConsumer" options="" />
+      <module name="ZookeeperProvider" options="" />
+    </option>
+  </component>
+</project>
