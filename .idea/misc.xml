@@ -61,6 +61,43 @@
         <option value="$PROJECT_DIR$/../SpringCloudRetest/Day9/DashBorder_Day9/pom.xml" />
         <option value="$PROJECT_DIR$/../SpringCloudRetest/Day9/GateWay_Day9/pom.xml" />
         <option value="$PROJECT_DIR$/Config/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day10/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day10/Day10_Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day10/Day10_Config/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day10/Config_Client/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day11/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day11/Eureka_Day11/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day11/PayService/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day11/Config_Day11/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day11/DashBorad_Day11/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day11/GateWay_Day11/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day11/Day11_Consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/Stream_Provider/pom.xml" />
+        <option value="$PROJECT_DIR$/Stream_Consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/Stream-Consumer2/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day12/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day12/Eureka_Day12/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day12/Stream_Provider_Day12/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day12/Stream_Consumer_Day12/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day12/Stream_Consumer2_Day12/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudAlibaba/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudAlibaba/Nacos_Provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudAlibaba/GateWay_Alibaba/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudAlibaba/Nacos_Provider2/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudAlibaba/Nacos_Consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudAlibaba/Nacos_Config/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day13/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day13/Nacos_server_Day13/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day13/Day13_Provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day13/Consumer_Day13/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day13/Day13_GateWay/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudAlibaba/Sentinel/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day14/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloudRetest/Day14/PayService_Provider_Day14/pom.xml" />
+        <option value="$PROJECT_DIR$/../Seata_Model/pom.xml" />
+        <option value="$PROJECT_DIR$/../Seata_Model/Seata_Order/pom.xml" />
+        <option value="$PROJECT_DIR$/../Seata_Model/Data_Model/pom.xml" />
+        <option value="$PROJECT_DIR$/../Seata_Model/User_Model/pom.xml" />
       </list>
     </option>
   </component>

@@ -7,32 +7,52 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="GateWay_Alibaba" />
+        <module name="Config_Client" />
         <module name="PayModel" />
         <module name="Provider_2" />
+        <module name="Eureka_Day11" />
+        <module name="Day10_Eureka" />
+        <module name="Eureka_Day12" />
         <module name="Eureka1_Day9" />
+        <module name="Day13_GateWay" />
         <module name="E1" />
         <module name="Eure2" />
         <module name="E2" />
         <module name="Eure1" />
+        <module name="GateWay_Day11" />
         <module name="Provider_1" />
         <module name="DashBorder_Day9" />
         <module name="OpenFeign" />
         <module name="Eureka1" />
         <module name="Eureka2" />
         <module name="Consumer" />
+        <module name="Data_Model" />
         <module name="PayMent8001" />
+        <module name="Day11_Consumer" />
         <module name="PayService_Day9" />
         <module name="Provi" />
         <module name="Order" />
         <module name="Consu" />
         <module name="ZookeeperProvider" />
+        <module name="Stream_Consumer2_Day12" />
+        <module name="PayService_Provider_Day14" />
         <module name="DashBorad" />
+        <module name="Stream_Provider" />
+        <module name="Stream_Consumer" />
+        <module name="Consumer_Day13" />
+        <module name="Nacos_Config" />
+        <module name="User_Model" />
         <module name="C" />
+        <module name="Day13_Provider" />
         <module name="Config" />
+        <module name="PayService" />
         <module name="GateWay9527" />
         <module name="Order_Hystrix_800" />
         <module name="GateWay_Day9" />
         <module name="HystrixConsumer" />
+        <module name="DashBorad_Day11" />
+        <module name="Nacos_Consumer" />
         <module name="ZookeeperConsumer" />
         <module name="GateWay_Day8" />
         <module name="InterFace" />
@@ -45,33 +65,55 @@
         <module name="ConsulProvider" />
         <module name="EUREKA2" />
         <module name="ServiceFuse" />
+        <module name="Sentinel" />
         <module name="PayMent8002" />
         <module name="Day8_PayConsumer" />
         <module name="ConsumerDay2" />
+        <module name="Nacos_Provider" />
         <module name="InterFaceFactory" />
         <module name="DashBorder" />
         <module name="Provider" />
+        <module name="Stream-Consumer2" />
         <module name="Ribbon_Round_method" />
+        <module name="Day10_Config" />
         <module name="PayService-Consumer" />
         <module name="Day8_Eureka1" />
+        <module name="Nacos_Provider2" />
         <module name="OpenFeignConsumer" />
+        <module name="Stream_Consumer_Day12" />
+        <module name="Stream_Provider_Day12" />
+        <module name="Seata_Order" />
         <module name="ConsulConusmer" />
         <module name="Eureka" />
+        <module name="Config_Day11" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Nacos_server_Day13" target="8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="C" options="" />
       <module name="Config" options="" />
+      <module name="Config_Client" options="" />
+      <module name="Config_Day11" options="" />
       <module name="Consu" options="" />
       <module name="ConsulConusmer" options="" />
       <module name="ConsulProvider" options="" />
       <module name="Consumer" options="-parameters" />
       <module name="ConsumerDay2" options="" />
+      <module name="Consumer_Day13" options="" />
       <module name="DashBorad" options="" />
+      <module name="DashBorad_Day11" options="" />
       <module name="DashBorder" options="" />
       <module name="DashBorder_Day9" options="" />
+      <module name="Data_Model" options="" />
+      <module name="Day10_Config" options="" />
+      <module name="Day10_Eureka" options="" />
+      <module name="Day11_Consumer" options="" />
+      <module name="Day13_GateWay" options="" />
+      <module name="Day13_Provider" options="" />
       <module name="Day8_Eureka1" options="" />
       <module name="Day8_PayConsumer" options="" />
       <module name="E1" options="" />
@@ -84,10 +126,18 @@
       <module name="Eureka1_Day9" options="" />
       <module name="Eureka2" options="" />
       <module name="EurekaServer" options="" />
+      <module name="Eureka_Day11" options="-parameters" />
+      <module name="Eureka_Day12" options="" />
       <module name="GateWay9527" options="" />
+      <module name="GateWay_Day11" options="" />
       <module name="GateWay_Day8" options="-parameters" />
       <module name="GateWay_Day9" options="" />
       <module name="HystrixConsumer" options="" />
+      <module name="Nacos_Config" options="" />
+      <module name="Nacos_Consumer" options="" />
+      <module name="Nacos_Provider" options="" />
+      <module name="Nacos_Provider2" options="" />
+      <module name="Nacos_server_Day13" options="" />
       <module name="OpenFeign" options="" />
       <module name="OpenFeignConsumer" options="" />
       <module name="Order" options="" />
@@ -97,15 +147,25 @@
       <module name="PayMent8001_Htstrix" options="" />
       <module name="PayMent8002" options="" />
       <module name="PayModel" options="" />
+      <module name="PayService" options="" />
       <module name="PayService-Consumer" options="" />
       <module name="PayService_Day9" options="" />
+      <module name="PayService_Provider_Day14" options="" />
       <module name="Pro1" options="" />
       <module name="Pro2" options="" />
       <module name="Provider" options="-parameters" />
       <module name="Provider_1" options="" />
       <module name="Provider_2" options="" />
       <module name="Ribbon_Round_method" options="" />
+      <module name="Seata_Order" options="" />
+      <module name="Sentinel" options="" />
       <module name="ServiceFuse" options="" />
+      <module name="Stream-Consumer2" options="" />
+      <module name="Stream_Consumer" options="" />
+      <module name="Stream_Consumer2_Day12" options="" />
+      <module name="Stream_Consumer_Day12" options="" />
+      <module name="Stream_Provider" options="" />
+      <module name="User_Model" options="" />
       <module name="ZookeeperConsumer" options="" />
       <module name="ZookeeperProvider" options="" />
     </option>

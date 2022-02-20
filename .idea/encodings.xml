@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../Seata_Model/Data_Model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Seata_Model/Data_Model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Seata_Model/Seata_Order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Seata_Model/Seata_Order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Seata_Model/User_Model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Seata_Model/User_Model/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Config/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ConsulConusmer/src/main/java" charset="UTF-8" />
@@ -27,14 +33,65 @@
     <file url="file://$PROJECT_DIR$/PayMent8001_Hystrix/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PayMent8002/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PayMent8002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stream-Consumer2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stream-Consumer2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stream_Consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stream_Consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stream_Provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stream_Provider/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ZookeeperConsumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ZookeeperConsumer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ZookeeperProvider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ZookeeperProvider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudAlibaba/GateWay_Alibaba/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudAlibaba/GateWay_Alibaba/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudAlibaba/Nacos_Config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudAlibaba/Nacos_Config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudAlibaba/Nacos_Consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudAlibaba/Nacos_Consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudAlibaba/Nacos_Provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudAlibaba/Nacos_Provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudAlibaba/Nacos_Provider2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudAlibaba/Nacos_Provider2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudAlibaba/Sentinel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudAlibaba/Sentinel/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day1/Consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day1/InterFace/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day1/InterFace/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day1/Provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day10/Config_Client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day10/Config_Client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day10/Day10_Config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day10/Day10_Config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day10/Day10_Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day10/Day10_Eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day11/Config_Day11/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day11/Config_Day11/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day11/DashBorad_Day11/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day11/DashBorad_Day11/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day11/Day11_Consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day11/Day11_Consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day11/Eureka_Day11/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day11/GateWay_Day11/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day11/GateWay_Day11/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day11/PayService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day11/PayService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day12/Eureka_Day12/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day12/Eureka_Day12/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day12/Stream_Consumer2_Day12/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day12/Stream_Consumer2_Day12/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day12/Stream_Consumer_Day12/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day12/Stream_Consumer_Day12/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day12/Stream_Provider_Day12/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day12/Stream_Provider_Day12/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day13/Consumer_Day13/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day13/Consumer_Day13/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day13/Day13_GateWay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day13/Day13_GateWay/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day13/Day13_Provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day13/Day13_Provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day14/PayService_Provider_Day14/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day14/PayService_Provider_Day14/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day2/ConsumerDay2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day2/ConsumerDay2/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../SpringCloudRetest/Day2/EUREKA2/src/main/java" charset="UTF-8" />
